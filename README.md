@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Martin
 
-<!--
-**Martinsecc/Martinsecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying for CompTIA Security+ and learning cybersecurity hands-on.  
+Messing around with scripts to make life less difficult
 
-Here are some ideas to get you started:
+## Projects
+- [Security+ Question Generator](https://github.com/Martinsecc/comptia-question-gen) *(WIP)*
+- [TryHackMe progress](https://tryhackme.com/p/Martinsecc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Linux basics and common network protocols  
+- Understanding cyber security
+- Python scripting for small automations
+
+## Goals
+- Pass Security+  
+- eJPT, then more
